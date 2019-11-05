@@ -15,7 +15,7 @@ div {
   height: 15px;
   width: 15px;
   display: inline-block;
-  outline: 1px solid black;
+  outline: 1px solid grey;
   margin: 0;
   padding: 0;
   line-height: 0%;
@@ -169,6 +169,10 @@ img {
 #pallette {
   margin-top: 15px;
   background-color: black;
+}
+
+p {
+  font-size: 10px;
 }
 
 @media only screen and (max-width: 1060px) {
